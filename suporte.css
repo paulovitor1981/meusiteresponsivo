@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: maroon;
+}
+.suporte{
+    position: relative;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-transform: uppercase;
+}
+.desenho{
+    position: relative;
+    display: flex;
+    justify-items: center;
+    justify-content: space-around;
+    text-transform: lowercase;
+
+}
+.redessocias{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.direitos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+}

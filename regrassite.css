@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: chocolate;
+}
+.par{
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    position: relative;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    text-transform: uppercase;
+    flex-direction: column;
+}

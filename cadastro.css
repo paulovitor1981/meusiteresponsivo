@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(144, 87, 197);
+   
+
+
+}
+.palavras1{
+    display: flex;
+    position: relative;
+    align-items: center;
+    text-transform: uppercase;
+    flex-direction: column;
+    margin: 50px;
+    padding: 50px;
+    gap: 30px;
+   }
+
+   
